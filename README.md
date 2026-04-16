@@ -23,6 +23,6 @@ docker build -t hiru-web-app .
 Open your browser and go to: http://localhost:8080
 
 📸 Project Preview
-(./web-preview.jpg)
+![Web Server Preview](./web-preview.jpg)
 
 Developed by Hiruka Warnakula – Final Year IT Undergraduate.
